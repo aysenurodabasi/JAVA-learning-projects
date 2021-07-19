@@ -1,5 +1,3 @@
-For the application to work, you must provide your own information in Main.java
+Uygulamanın çalışması için Main.java'da kendi bilgilerinizi girmelisiniz.
 
-Project that makes customer management for coffee shops. 
-Mernis integration has been added to the project so that coffee shop companies can optionally use Mernis verification. 
-Abstract classes, interfaces, inheritance, polymorphism were used.
+Kahve dükkanları için müşteri yönetimi yazıldı. Kahvehane firmalarının isteğe bağlı olarak Mernis doğrulamasını kullanabilmesi için projeye Mernis entegrasyonu eklendi. Soyut sınıflar, arayüzler, kalıtım, polimorfizm kullanılmıştır.
